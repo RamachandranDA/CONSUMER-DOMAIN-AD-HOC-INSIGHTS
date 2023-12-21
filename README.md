@@ -4,7 +4,7 @@ AtliQ Hardware is one of the leading computer hardware producers in India and we
 
 The Company produces 73 unique products under 3 Division
 
-# Probllem Statement 📑: 
+# Problem Statement 📑: 
 
 ▶ The management noticed that they do not get enough insights to make quick and smart data-informed decisions.
 

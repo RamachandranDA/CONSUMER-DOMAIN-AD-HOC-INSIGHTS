@@ -16,6 +16,17 @@ The Company produces 73 unique products under 3 Division
 
 # Tools 🧰: Microsoft Excel, Power BI, SQL, PowerPoint, OBS Studio
 
+# Actions Performed 📢:
+
+1️⃣ 𝗜𝗺𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗦𝗲𝗿𝘃𝗲𝗿: Started by getting the data source and running in MySQL - Servers are the foundation, and a solid one is crucial!
+
+2️⃣ 𝗖𝗿𝗮𝗳𝘁𝗶𝗻𝗴 𝗦𝗤𝗟 𝗾𝘂𝗲𝗿𝗶𝗲𝘀: Crafted queries using Joins, Subqueries and window functions - It's like magic, extracting the hidden gems from the data!
+
+3️⃣ 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗣𝗹𝗮𝘆𝗴𝗿𝗼𝘂𝗻𝗱: Brought the refined data into Power BI, the ultimate data visualization tool - Time to paint the insights with vibrant charts and graphs!
+
+4️⃣ 𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗧𝗶𝗺𝗲: Finally, I presented my findings in a clear and concise way - Data-driven storytelling at its finest!✨
+
+
 # Requests 📠:
 
 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
